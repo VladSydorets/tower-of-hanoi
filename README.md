@@ -2,7 +2,7 @@
 
 # Tower of Hanoi 
 
-Tower of Hanoi game build using React.
+Tower of Hanoi game built using React.
 
 ## Technologies:
 - React
