@@ -43,10 +43,6 @@ function App() {
       newTowers[clickedTowerIndex].unshift(poppedDisc);
       setTowers(newTowers);
       setMovesNum(movesNum + 1);
-      // if (selectedTower[0] !== undefined) {
-      //   setMovesNum(movesNum + 1);
-      // }
-
       setSelectedTowerIndex(undefined);
 
       if (towers[2].length === discsNum) {
